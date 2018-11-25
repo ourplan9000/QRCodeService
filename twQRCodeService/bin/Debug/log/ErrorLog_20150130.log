@@ -1,0 +1,15 @@
+2015-01-30 21:26:44,269 [7] ERROR twQRCodeService.UIForms.MainForm[33] - 扫描异常,   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 twQRCodeService.UIForms.MainForm._timer_Elapsed(Object sender, ElapsedEventArgs e) 位置 G:\QQPCmgr\桌面\twQRCodeService\twQRCodeService\twQRCodeService\UIForms\MainForm.cs:行号 211
+   在 twQRCodeService.UIForms.MainForm._timer_Elapsed(Object sender, ElapsedEventArgs e) 位置 G:\QQPCmgr\桌面\twQRCodeService\twQRCodeService\twQRCodeService\UIForms\MainForm.cs:行号 211
+2015-01-30 21:26:44,269 [8] ERROR twQRCodeService.UIForms.MainForm[33] - 扫描异常,   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 twQRCodeService.UIForms.MainForm._timer_Elapsed(Object sender, ElapsedEventArgs e) 位置 G:\QQPCmgr\桌面\twQRCodeService\twQRCodeService\twQRCodeService\UIForms\MainForm.cs:行号 211
+   在 twQRCodeService.UIForms.MainForm._timer_Elapsed(Object sender, ElapsedEventArgs e) 位置 G:\QQPCmgr\桌面\twQRCodeService\twQRCodeService\twQRCodeService\UIForms\MainForm.cs:行号 211
+2015-01-30 21:26:44,269 [9] ERROR twQRCodeService.UIForms.MainForm[33] - 扫描异常,   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 twQRCodeService.UIForms.MainForm._timer_Elapsed(Object sender, ElapsedEventArgs e) 位置 G:\QQPCmgr\桌面\twQRCodeService\twQRCodeService\twQRCodeService\UIForms\MainForm.cs:行号 211
+   在 twQRCodeService.UIForms.MainForm._timer_Elapsed(Object sender, ElapsedEventArgs e) 位置 G:\QQPCmgr\桌面\twQRCodeService\twQRCodeService\twQRCodeService\UIForms\MainForm.cs:行号 211

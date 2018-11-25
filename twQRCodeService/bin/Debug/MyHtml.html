@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11" />
+	<style type="text/css">
+	</style>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=99281f117939e69b45e447c132e39c36"></script>
+
+</head>
+<body>
+<!-- 	<div id="allmap" style=""></div>
+	<input type="text" id="keyword">
+	<input type="text" id="result" value="test">
+	<input type="button" value="检索" onclick="search()"/>
+	<input type="button" value="检索2" onclick="search2()"/>
+	<p>返回北京市“景点”关键字的检索结果，并展示在地图上</p>  -->
+</body>
+</html>
+	<script type="text/javascript">
+		var local;
+		var resultStr;
+		var totalCounts=6;
+		var $jqCode;
+		var $xw;
+		var $guid;
+		var $pointCountSize;
+		
+		function init(){
+			try{
+				local = new BMap.LocalSearch("钦州市", {
+					pageCapacity:100,//每页100条
+					onSearchComplete:function(localResult){
+						var index=localResult.getNumPois();
+						if($pointCountSize<index){
+							index=$pointCountSize;
+						}
+						resultStr="";
+						for(var i=0;i<index;i++){
+							var localResultPoi=localResult.getPoi(i);
+							if(localResultPoi){
+								localResultPoi.title=localResultPoi.title.replace(/钦州/g,"qz");
+								localResultPoi.address=localResultPoi.address.replace(/钦州/g,"qz");
+								resultStr+= localResultPoi.title+","+localResultPoi.point.lat+","+localResultPoi.point.lng+","+localResultPoi.address+"^";
+							}
+						}
+						resultStr= $guid+","+ $jqCode+","+$xw+"^"+resultStr;
+						window.external.SetQRCode(resultStr);
+					}}
+				);
+		}catch(e){}
+		};
+		
+		window.onload=init;
+		function search(keyword,guid,jqCode,xw,pointCountSize){
+			try{
+				$guid=guid;
+				$jqCode=jqCode;
+				$xw=xw;
+				$pointCountSize=pointCountSize;
+				resultStr="";
+				local.clearResults();
+				local.search(keyword,{forceLocal:true});
+			}catch(e){}
+		};
+	</script>
+
+

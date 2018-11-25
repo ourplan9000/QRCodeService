@@ -1,0 +1,117 @@
+2015-01-29 14:59:59,703 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 冯子材,c1a62ab686b44595ab62f6110aab3113,8005,f30b8e71bf5f4025be188a8e30fbb85b
+2015-01-29 14:59:59,703 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,冯子材
+2015-01-29 14:59:59,953 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 二马路,20150129450700100005,8001,c19ede7735294a38904b7ff8c7729096
+2015-01-29 14:59:59,953 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,二马路
+2015-01-29 15:00:00,187 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:c19ede7735294a38904b7ff8c7729096,20150129450700100005,8001^冯子材故居,21.990089,108.631371,三马路和四马路之间^冯子材故居,21.987874,108.63557,1路; 3路; 19路; 38路^冯子材文化,21.973868,108.620639,南珠西大街211^坭兴陶艺馆,21.989209,108.630659,qz冯子材公园B区48号^龟王城酒楼,21.989947,108.632113,qz钦南区宫保街冯子材故居旁^
+2015-01-29 15:00:00,953 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:c19ede7735294a38904b7ff8c7729096,20150129450700100005,8001^二马路,21.958114,108.622107,广西壮族自治区qz市钦南区^西门街/二马路(路口),21.958089,108.622105,广西壮族自治区qz市市辖区^二马路/人民路(路口),21.956555,108.627815,广西壮族自治区qz市市辖区^二马路/中山路(路口),21.95591,108.629628,广西壮族自治区qz市市辖区^二马路/滨江南路(路口),21.955859,108.630267,广西壮族自治区qz市市辖区^
+2015-01-29 15:01:49,156 [7] INFO  twQRCodeService.UIForms.MainForm[36] - 五马路,20150129450700100005,8001,8bb89e68aa61465aaca5d8fc37a96979
+2015-01-29 15:01:49,203 [7] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,五马路
+2015-01-29 15:01:50,500 [11] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:8bb89e68aa61465aaca5d8fc37a96979,20150129450700100005,8001^五马路,21.946733,108.630052,广西壮族自治区qz市钦南区^五马路,21.948903,108.623565,1路^五马路/把水巷(路口),21.947043,108.62754,广西壮族自治区qz市市辖区^金辉路/五马路(路口),21.949214,108.621956,广西壮族自治区qz市市辖区^五马路/龙墩路(路口),21.949214,108.621956,广西壮族自治区qz市市辖区^
+2015-01-29 15:02:38,484 [7] INFO  twQRCodeService.UIForms.MainForm[36] - 冯子材,96ab4a2463e649a7ae28786aaaf9bf78,8005,6bf6ceba5ab041fdb617585fcf3efd64
+2015-01-29 15:02:38,484 [7] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,冯子材
+2015-01-29 15:02:38,718 [7] INFO  twQRCodeService.UIForms.MainForm[36] - 二马路,20150129450700100005,8001,7b60a22725c241a09dfbb71c1fc1c6f6
+2015-01-29 15:02:38,718 [7] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,二马路
+2015-01-29 15:02:38,953 [11] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:7b60a22725c241a09dfbb71c1fc1c6f6,20150129450700100005,8001^冯子材故居,21.990089,108.631371,三马路和四马路之间^冯子材故居,21.987874,108.63557,1路; 3路; 19路; 38路^冯子材文化,21.973868,108.620639,南珠西大街211^坭兴陶艺馆,21.989209,108.630659,qz冯子材公园B区48号^龟王城酒楼,21.989947,108.632113,qz钦南区宫保街冯子材故居旁^
+2015-01-29 15:02:39,875 [11] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:7b60a22725c241a09dfbb71c1fc1c6f6,20150129450700100005,8001^二马路,21.958114,108.622107,广西壮族自治区qz市钦南区^西门街/二马路(路口),21.958089,108.622105,广西壮族自治区qz市市辖区^二马路/人民路(路口),21.956555,108.627815,广西壮族自治区qz市市辖区^二马路/中山路(路口),21.95591,108.629628,广西壮族自治区qz市市辖区^二马路/滨江南路(路口),21.955859,108.630267,广西壮族自治区qz市市辖区^
+2015-01-29 15:09:49,796 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 那沙,6fb6cf6af54e407686b344c93e3f50be,8005,fc5c491df1304b44ab1a9161677d5b46
+2015-01-29 15:09:49,828 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,那沙
+2015-01-29 15:09:50,390 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:fc5c491df1304b44ab1a9161677d5b46,6fb6cf6af54e407686b344c93e3f50be,8005^那沙,22.322045,109.270113,广西壮族自治区qz市灵山县^那沙,22.453151,108.711579,qz市灵山县^那沙,22.006024,108.287403,qz市钦北区^那沙,22.361725,108.632464,qz市钦北区^那沙,22.227513,108.529008,qz市钦北区^
+2015-01-29 15:10:42,625 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 那丽,878b3b5d5e094ce991a68b63f07be089,8005,7fe0a695c1fa4d19a0b2b5a1e33069cf
+2015-01-29 15:10:42,625 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,那丽
+2015-01-29 15:10:43,515 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:7fe0a695c1fa4d19a0b2b5a1e33069cf,878b3b5d5e094ce991a68b63f07be089,8005^那丽镇,21.875024,108.906306,qz市钦南区^那丽村,21.891576,108.912258,广西壮族自治区qz市钦南区^那丽中学,21.870656,108.915087,广西壮族自治区qz市钦南区^qz市那丽国土所,21.875611,108.897678,那丽派出所附近^那丽坪,21.879032,108.907045,qz市钦南区^
+2015-01-29 15:10:47,375 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 久隆镇,20150120450700100572,8001,986d26d3f01643aab094efc69767ead7
+2015-01-29 15:10:47,390 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,久隆镇
+2015-01-29 15:10:47,890 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:986d26d3f01643aab094efc69767ead7,20150120450700100572,8001^久隆镇,22.059754,108.735051,qz市钦南区^久隆镇政府,22.059754,108.735051,久隆镇附近^久隆镇农场,22.084431,108.730623,qz市钦南区^久隆镇客运站,22.060734,108.737663,347省道附近^久隆镇菠萝场,22.00785,108.69541,qz市钦南区^
+2015-01-29 15:11:38,171 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 螃蟹孔,4b1c107c43e34d48a6a43196810b3690,8005,efef212bd06d43719be77e432a1f05d8
+2015-01-29 15:11:38,171 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,螃蟹孔
+2015-01-29 15:11:38,421 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 汽车站,20150120450700100572,8001,187be5d2cc4144b5990907eaca7d1638
+2015-01-29 15:11:38,421 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,汽车站
+2015-01-29 15:11:38,546 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:efef212bd06d43719be77e432a1f05d8,4b1c107c43e34d48a6a43196810b3690,8005^螃蟹孔,21.718495,108.844407,qz市钦南区^螃蟹孔,21.917615,108.648888,qz市钦南区^
+2015-01-29 15:11:39,187 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:187be5d2cc4144b5990907eaca7d1638,20150120450700100572,8001^qz客运总站,21.971228,108.630966,钦南区qz湾大道9-3号^城南客运站,21.943649,108.660157,金海湾东大街附近^qz汽车北站,22.012466,108.643235,qz湾北海路口^浦北汽车站,22.270782,109.552495,浦北人民医院对面^灵山太平客运站,22.433701,108.822198,竹围街125号^
+2015-01-29 15:11:54,187 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 黄屋屯,a03fe7040833479e9e5006263e19f101,8005,3831c07888df4b27b81d214620a52bf6
+2015-01-29 15:11:54,187 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,黄屋屯
+2015-01-29 15:11:55,156 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:3831c07888df4b27b81d214620a52bf6,a03fe7040833479e9e5006263e19f101,8005^黄屋屯镇,21.985942,108.530742,qz市钦南区^黄屋屯大桥,21.984124,108.533507,广西壮族自治区qz市钦南区^黄屋屯服务区,21.986997,108.506084,qz市钦南区^黄屋屯服务区,21.986729,108.507307,黄屋屯服务区附近^黄屋屯卫生院,21.987232,108.531515,镇兴街附近^
+2015-01-29 15:12:01,203 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 久隆镇变电站路口,20150120450700100572,8001,b719785271c542dd8792d2be0d79e893
+2015-01-29 15:12:01,203 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,久隆镇变电站路口
+2015-01-29 15:12:01,593 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:b719785271c542dd8792d2be0d79e893,20150120450700100572,8001^
+2015-01-29 15:12:18,234 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 简一陶瓷,371d5fdfa78a4659bcf29e17469aea93,8005,4ccc1ac59ec048cbab5c1fffb11dd091
+2015-01-29 15:12:18,234 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,简一陶瓷
+2015-01-29 15:12:18,671 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:4ccc1ac59ec048cbab5c1fffb11dd091,371d5fdfa78a4659bcf29e17469aea93,8005^
+2015-01-29 15:12:31,500 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 石吉,a2f6a2679d764b1fb11f2265c2b5ef4a,8005,1cb1d06d86024782a61d284b3358c8c4
+2015-01-29 15:12:31,500 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,石吉
+2015-01-29 15:12:31,953 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:1cb1d06d86024782a61d284b3358c8c4,a2f6a2679d764b1fb11f2265c2b5ef4a,8005^石吉,22.024712,108.647046,qz市钦北区^石吉西三巷,22.018304,108.644053,广西壮族自治区qz市钦北区^石吉东一巷,22.016797,108.644255,广西壮族自治区qz市钦北区^石吉东四巷,22.017995,108.644294,广西壮族自治区qz市钦北区^石吉东二巷,22.017165,108.644265,广西壮族自治区qz市钦北区^
+2015-01-29 15:12:54,546 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 钦州汽车南站旁边的邮政储蓄银行,20150120450700100566,8001,efbda20749b0479695d073bb2e85fddd
+2015-01-29 15:12:54,546 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,钦州汽车南站旁边的邮政储蓄银行
+2015-01-29 15:12:55,046 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 钦州学院,082a2f1773f44171abff1580cb0ede18,8005,1b2bdc74542b4f369d0d032479e8f0f1
+2015-01-29 15:12:55,046 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8005  ,钦州学院
+2015-01-29 15:12:55,140 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:efbda20749b0479695d073bb2e85fddd,20150120450700100566,8001^中国邮政储蓄银行,21.95622,108.647313,钦南区南珠东大街133-171号^中国邮政邮政储蓄沙埠营业处,21.95622,108.647313,qz市钦南区^中国邮政储蓄银行(南珠东大街支行),21.956454,108.641748,qz市南珠东大街63,65,67号^中国邮政储蓄银行ATM,21.956471,108.641733,qz市南珠东大街63、65、67号^中国邮政储蓄银行(qz市新兴街支行),21.964625,108.641154,qz市新兴街2-6号锦绣家园小区11栋名47,48,49号铺面^
+2015-01-29 15:12:55,921 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:1b2bdc74542b4f369d0d032479e8f0f1,082a2f1773f44171abff1580cb0ede18,8005^qz学院,21.970005,108.598301,广西qz市南珠西大街89号^qz学院东校区,21.982934,108.639415,育才路9^qz学院-相辉苑,21.970399,108.621503,钦南区城西一街(近相辉苑)^qz学院,21.972256,108.597738,2路; 6路; 15路^qz学院,21.973583,108.622243,钦南区南珠西大街138号^
+2015-01-29 15:13:29,406 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 中国银行,186dc5809d3f4b3c93b22a770d72aa48,8001,268f2ea564da47d88f0bf9969d12e2b4
+2015-01-29 15:13:29,406 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,中国银行
+2015-01-29 15:13:31,218 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:268f2ea564da47d88f0bf9969d12e2b4,186dc5809d3f4b3c93b22a770d72aa48,8001^中国银行(qz分行营业厅),21.973608,108.624804,qz市文峰北路1号^中国银行(新兴街支行),21.963821,108.639277,新兴街11号^中国银行(qz市赛格广场分理处),21.983411,108.632211,永福西大街赛格新时代广场C1-169～171号^中国银行(沙坡支行),21.96243,108.637484,新兴路11-2号^中国银行(qz支行),21.973616,108.624566,文峰北路1号^
+2015-01-29 15:14:33,218 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 建设银行,15a06912947f411587c1d83043325c49,8001,3a47610e67384d8a84d9c09d78c9b274
+2015-01-29 15:14:33,218 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,建设银行
+2015-01-29 15:14:34,015 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:3a47610e67384d8a84d9c09d78c9b274,15a06912947f411587c1d83043325c49,8001^中国建设银行(qz湾大道南支行),21.973524,108.632092,qz湾大道^中国建设银行(新兴街中分理处),21.963787,108.639999,qz市新兴路20号民政综合楼一楼^中国建设银行(建设街支行),21.966301,108.628564,建设街10-1号^中国建设银行(永福西大街分理处),21.982741,108.634979,永福西大街建设海岸1楼^中国建设银行(qz金海湾西大街支行),21.948275,108.617719,qz市钦南区^
+2015-01-29 15:15:27,546 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 钦州港天盛港务码头大门前,20150120450700300561,8001,0e984b7f80db4d5abbcc4f7c4553b647
+2015-01-29 15:15:27,546 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,钦州港天盛港务码头大门前
+2015-01-29 15:15:27,937 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:0e984b7f80db4d5abbcc4f7c4553b647,20150120450700300561,8001^
+2015-01-29 15:15:54,609 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 钦州港天盛港务码头大门前,5fb3100fb28f4781ab8414d36f45a703,8001,89a884f691f745e08156be09a64613e7
+2015-01-29 15:15:54,609 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,钦州港天盛港务码头大门前
+2015-01-29 15:15:54,968 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:89a884f691f745e08156be09a64613e7,5fb3100fb28f4781ab8414d36f45a703,8001^
+2015-01-29 15:16:02,390 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 钦州港天盛港务码头,3b301b45bd134062ac909891b777fcde,8001,bfee8042023d454fb194a9b4d9306034
+2015-01-29 15:16:02,390 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,钦州港天盛港务码头
+2015-01-29 15:16:02,765 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:bfee8042023d454fb194a9b4d9306034,3b301b45bd134062ac909891b777fcde,8001^
+2015-01-29 15:16:34,437 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 港天盛港务码头,4269d6d657ec42ad8b39459165e83531,8001,a452e21268ad4c41bd83af3552a0c808
+2015-01-29 15:16:34,437 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,港天盛港务码头
+2015-01-29 15:16:34,828 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:a452e21268ad4c41bd83af3552a0c808,4269d6d657ec42ad8b39459165e83531,8001^
+2015-01-29 15:16:45,703 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 天盛港务码头,2a36d86dfd3c4926b3635b6421233b2f,8001,7819fb20dafb4c2380547c5a8f023016
+2015-01-29 15:16:45,718 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,天盛港务码头
+2015-01-29 15:16:46,062 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:7819fb20dafb4c2380547c5a8f023016,2a36d86dfd3c4926b3635b6421233b2f,8001^
+2015-01-29 15:17:04,250 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 码头,c3a1947d072842baa081d9bfa27a61e6,8001,7d69ec68011f47ef86520e9beeef48af
+2015-01-29 15:17:04,250 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,码头
+2015-01-29 15:17:04,671 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:7d69ec68011f47ef86520e9beeef48af,c3a1947d072842baa081d9bfa27a61e6,8001^qz港,21.734746,108.59756,广西壮族自治区qz市钦南区^瓦窑港,21.785098,108.843437,qz市钦南区^牛麓渡,21.752833,108.876961,qz市钦南区^丝箩港,21.638692,108.740381,qz市钦南区^旅游码头,21.605133,108.7537,qz市钦南区^
+2015-01-29 15:17:29,015 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 钦州,f67cacce625d4b0a8009dd71ee3adcce,8001,5083ac8bb91c4c6b953925b7aa326172
+2015-01-29 15:17:29,015 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,钦州
+2015-01-29 15:17:30,656 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:5083ac8bb91c4c6b953925b7aa326172,f67cacce625d4b0a8009dd71ee3adcce,8001^qz市,21.986562,108.660747,广西壮族自治区^qz港,21.734746,108.59756,广西壮族自治区qz市钦南区^qz学院,21.970005,108.598301,广西qz市南珠西大街89号^qz东站,21.985439,108.676025,永福东大街^qz港经济技术开发区,21.735099,108.608891,qz市钦南区果鹰大街^
+2015-01-29 15:17:38,265 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 二中,248dd50c9f3e4bac931b8f53ab8b0893,8001,cc9023ee79124e648acff4c600848694
+2015-01-29 15:17:38,265 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,二中
+2015-01-29 15:17:38,875 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:cc9023ee79124e648acff4c600848694,248dd50c9f3e4bac931b8f53ab8b0893,8001^广西qz市第二中学,21.971848,108.652535,扬帆大道^灵山县第二中学,22.434595,109.314364,灵山县东风路^小江镇二中,22.275925,109.565766,东滨路附近^市第二中学,21.971953,108.65457,22路^浦北县第二中学,22.279687,109.560853,小江镇文化路11号^
+2015-01-29 15:18:01,062 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 东场镇白木村委车代杆村5号,20150120450700100543,8001,43211baa6fb74a0c89ce2b246b7f3d20
+2015-01-29 15:18:01,062 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,东场镇白木村委车代杆村5号
+2015-01-29 15:18:01,468 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:43211baa6fb74a0c89ce2b246b7f3d20,20150120450700100543,8001^
+2015-01-29 15:18:16,359 [10] INFO  twQRCodeService.UIForms.MainForm[36] - 东场镇,20150120450700100543,8001,6362437bc91044088057c785eb38fbb8
+2015-01-29 15:18:16,359 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,东场镇
+2015-01-29 15:18:16,890 [9] INFO  twQRCodeService.UIForms.MainForm[36] - 查询结果:6362437bc91044088057c785eb38fbb8,20150120450700100543,8001^东场镇,21.836196,108.788076,qz市钦南区^东场镇小学,21.835189,108.787325,钦南区东场线^东场镇政府,21.836196,108.788086,东场镇附近^东场镇卫生院,21.837647,108.786517,东场镇^qz市东场镇纪检委,21.836196,108.788076,东场镇^
+2015-01-29 15:27:07,765 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,东场镇
+2015-01-29 15:27:08,046 [15] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 15:27:08:0312500
+2015-01-29 15:27:08,593 [16] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 15:27:08:5937500
+2015-01-29 15:27:19,703 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,钦州汽车南站旁边的邮政储蓄银行
+2015-01-29 15:27:19,937 [16] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 15:27:19:9375000
+2015-01-29 15:27:20,343 [17] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 15:27:20:3437500
+2015-01-29 15:27:49,484 [10] INFO  twQRCodeService.WebServiceQuery[36] - 8001  ,钦州汽车南站旁边的邮政储蓄银行
+2015-01-29 15:27:49,687 [16] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 15:27:49:6875000
+2015-01-29 15:27:50,031 [17] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 15:27:50:0312500
+2015-01-29 17:50:07,640 [14] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:50:07:5937500
+2015-01-29 17:50:09,468 [14] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:50:09:4687500
+2015-01-29 17:50:13,000 [11] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:50:13:0000000
+2015-01-29 17:50:13,343 [11] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:50:13:3437500
+2015-01-29 17:50:24,750 [15] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:50:24:7500000
+2015-01-29 17:50:25,000 [15] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:50:25:0000000
+2015-01-29 17:50:26,437 [15] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:50:26:4375000
+2015-01-29 17:50:26,937 [15] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:50:26:9375000
+2015-01-29 17:50:33,843 [15] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:50:33:8437500
+2015-01-29 17:50:44,109 [14] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:50:44:1093750
+2015-01-29 17:50:54,671 [15] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:50:54:6718750
+2015-01-29 17:50:54,968 [16] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:50:54:9687500
+2015-01-29 17:50:59,203 [16] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:50:59:2031250
+2015-01-29 17:51:00,218 [11] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:51:00:2187500
+2015-01-29 17:51:04,156 [16] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:51:04:1562500
+2015-01-29 17:51:04,437 [11] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:51:04:4375000
+2015-01-29 17:52:17,828 [4] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:52:17:8125000
+2015-01-29 17:52:19,734 [4] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:52:19:7343750
+2015-01-29 17:52:23,000 [7] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:52:23:0000000
+2015-01-29 17:52:23,203 [7] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:52:23:2031250
+2015-01-29 17:52:26,734 [4] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:52:26:7343750
+2015-01-29 17:52:27,187 [4] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:52:27:1875000
+2015-01-29 17:52:29,984 [4] INFO  twQRCodeService.utils.BdMapUtil[36] - 15-01-29 17:52:29:9843750
+2015-01-29 17:52:30,250 [4] INFO  twQRCodeService.UIForms.MainForm[36] - 15-01-29 17:52:30:2500000
